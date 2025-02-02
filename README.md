@@ -10,7 +10,7 @@ Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div class="tenor-gif-embed" data-postid="13485149571566152622" data-share-method="host" data-aspect-ratio="1.30366" data-width="100%"><a href="https://tenor.com/view/bradockdan-trap-drill-brasil-underground-gif-13485149571566152622">Bradockdan Trap GIF</a>from <a href="https://tenor.com/search/bradockdan-gifs">Bradockdan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="13485149571566152622" data-share-method="host" data-aspect-ratio="1.30366" data-width="100%"><a href="https://tenor.com/view/bradockdan-trap-drill-brasil-underground-gif-13485149571566152622">Bradockdan Trap GIF</a>from <a href="https://tenor.com/search/bradockdan-gifs">Bradockdan GIFs</a></div> 
   
   ##
  
