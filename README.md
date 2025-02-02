@@ -1,6 +1,6 @@
 ## Lucas Nobre
 
-Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira
+Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
