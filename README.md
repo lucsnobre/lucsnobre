@@ -11,7 +11,8 @@ Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
 </div>
 
 
-https://tenor.com/pt-BR/view/bradockdan-trap-drill-brasil-underground-gif-13485149571566152622
+![bradockdan-trap (online-video-cutter com) (1)](https://github.com/user-attachments/assets/635bc8a0-ee09-4abb-ab6c-df7c53d29e36)
+
   
   ##
  
