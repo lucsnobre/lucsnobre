@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sql)](https://skillicons.dev)
 
 
 ##
