@@ -12,5 +12,5 @@ Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
   
   ##
  
- [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://www.instagram.com/axvancel/)
   
