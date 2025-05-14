@@ -12,5 +12,5 @@ Desenvolvedor Full Stack e estudante na escola técnica SENAI Jandira.
   
   ##
  
- [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://www.instagram.com/axvancel/)
+ [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,linkedin)](https://www.instagram.com/axvancel/),(mailto:lucasfilbeto@gmail.com),(https://www.linkedin.com/in/lucas-rodrigues-nobre-01941b327/)
   
