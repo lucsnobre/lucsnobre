@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escola técnica SENAI Jandira.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,py,tailwindcss,react,vue,nodejs,kotlin,mysql,mongodb,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,java,py,tailwindcss,react,nodejs,kotlin,mysql,mongodb,figma)](https://skillicons.dev)
 
 
 ##
