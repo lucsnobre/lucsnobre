@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escola técnica SENAI Jandira.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,java,py,tailwindcss,react,nodejs,kotlin,mysql,mongodb,figma,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,java,py,tailwindcss,react,nodejs,kotlin,mysql,figma,lua)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/racket/icons/master/racket-logo.svg" alt="Racket" width="48px" style="margin-left:10px;"/>
 
 ##
