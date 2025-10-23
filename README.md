@@ -15,7 +15,7 @@ Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escol
 ##
 
 <div align="center">   
-  <a href="https://instagram.com/axvancel" target="_blank">
+  <a href="https://instagram.com/nobre_rds" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:lucasfilbeto@gmail.com">
