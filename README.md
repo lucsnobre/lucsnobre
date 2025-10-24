@@ -8,9 +8,10 @@ Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escol
 ##
 
 <div align="center">
-  <img height="150em" src="https://github.com/user-attachments/assets/dd9c3f1f-27af-4f50-81ab-7efbbfb658ac"/>
+  <img src="https://raw.githubusercontent.com/lucsnobre/lucsnobre/main/niink.gif" width="600" alt="Niink GIF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsnobre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=FFFFFF&icon_color=E4405F"/>
 </div>
+
 
 ##
 
