@@ -1,15 +1,32 @@
-## Lucas Nobre
 
-Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escola técnica SENAI Jandira.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp,elixir,py,tailwindcss,react,nodejs,kotlin,mysql,figma,lua)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/racket/icons/master/racket-logo.svg" alt="Racket" width="48px" style="margin-left:10px;"/>
+<div align="center" style="padding-bottom: 20px;">
+  Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escola técnica SENAI Jandira.
+</div>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="48px" alt="HTML" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48px" alt="CSS" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48px" alt="JS" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="48px" alt="TS" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48px" alt="C++" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=elixir" width="48px" alt="Elixir" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48px" alt="Python" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" width="48px" alt="Tailwind" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48px" alt="React" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48px" alt="NodeJS" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48px" alt="Kotlin" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48px" alt="MySQL" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48px" alt="Figma" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=lua" width="48px" alt="Lua" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/racket/icons/master/racket-logo.svg" alt="Racket" width="48px" style="margin:5px"/>
+</div>
+
 
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucsnobre/lucsnobre/main/niink.gif" width="600" alt="Niink GIF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsnobre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=FFFFFF&icon_color=E4405F"/>
+  <img src="https://i.imgur.com/UX6DFYK.gif" width="600" alt="Niink GIF"/>
 </div>
 
 
