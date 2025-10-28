@@ -22,12 +22,9 @@
   <img src="https://raw.githubusercontent.com/racket/icons/master/racket-logo.svg" alt="Racket" width="48px" style="margin:5px"/>
 </div>
 
-<div align="center">
 
-🎧 **Ouça agora:**  
-[![Primeiro Capítulo - Niink](https://i.scdn.co/image/ab67616d0000b273e4a123d2c5c4c232ce3f7b7e)](https://open.spotify.com/track/6FzLrdkqXbW4K9bQ3PZrZ2)
 
-</div>
+
 
 
 ##
