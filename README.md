@@ -1,7 +1,7 @@
 
 
 <div align="center" style="padding-bottom: 20px;">
-  Desenvolvedor Full Stack focado na área de Front-End UI/UX e estudante na escola técnica SENAI Jandira.
+  Desenvolvedor Full Stack com foco na área de Front-End UI/UX e formado como Técnico em Desenvolvimento de Sistemas
 </div>
 <br>
 <div align="center">
