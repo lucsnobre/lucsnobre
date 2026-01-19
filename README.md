@@ -1,7 +1,10 @@
 
 
 <div align="center" style="padding-bottom: 20px;">
-  Desenvolvedor Full Stack com foco na área de Front-End UI/UX e formado como Técnico em Desenvolvimento de Sistemas
+  Sou um desenvolvedor Full Stack com foco na área de Front-End UI/UX e formado como Técnico em Desenvolvimento de Sistemas.
+</div>
+<div align="center" style="padding-bottom: 20px;">
+  Seja bem-vindo ao meu Github! 🪷
 </div>
 <br>
 <div align="center">
