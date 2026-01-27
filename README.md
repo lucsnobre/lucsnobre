@@ -8,8 +8,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="48px" alt="HTML" style="margin:5px"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48px" alt="CSS" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=js" width="48px" alt="JS" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=typescript" width="48px" alt="TS" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=cpp" width="48px" alt="C++" style="margin:5px"/>
@@ -21,7 +19,9 @@
   <img src="https://skillicons.dev/icons?i=kotlin" width="48px" alt="Kotlin" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48px" alt="MySQL" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=figma" width="48px" alt="Figma" style="margin:5px"/>
-  <img src="https://skillicons.dev/icons?i=lua" width="48px" alt="Lua" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="48px" alt="AWS" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48px" alt="Docker" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="48px" alt="Azure" style="margin:5px"/>
   <img src="https://raw.githubusercontent.com/racket/icons/master/racket-logo.svg" alt="Racket" width="48px" style="margin:5px"/>
 </div>
 
