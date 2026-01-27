@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=tailwindcss" width="48px" alt="Tailwind" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=react" width="48px" alt="React" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48px" alt="NodeJS" style="margin:5px"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48px" alt="Kotlin" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48px" alt="MySQL" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=figma" width="48px" alt="Figma" style="margin:5px"/>
   <img src="https://skillicons.dev/icons?i=aws" width="48px" alt="AWS" style="margin:5px"/>
